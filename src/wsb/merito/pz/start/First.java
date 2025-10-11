@@ -1,4 +1,4 @@
-package wsb.pz.start;
+package wsb.merito.pz.start;
 
 public class First {
 
