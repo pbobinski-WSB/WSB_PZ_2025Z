@@ -1,8 +1,8 @@
-package wsb.merito.pz.cw02.symulacja;
+package wsb.merito.pz.cw02.zakupywsklepie.symulacja;
 
-import wsb.merito.pz.cw02.klasy.Produkt;
-import wsb.merito.pz.cw02.klasy.Klient;
-import wsb.merito.pz.cw02.klasy.Sklep;
+import wsb.merito.pz.cw02.zakupywsklepie.klasy.Produkt;
+import wsb.merito.pz.cw02.zakupywsklepie.klasy.Klient;
+import wsb.merito.pz.cw02.zakupywsklepie.klasy.Sklep;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +19,7 @@ public class Zakupy {
         Sklep sklep = Sklep.getInstance();
 
         System.out.println("Utwórz listę produktów i zatowaruj sklep.");
-        List<wsb.merito.pz.cw02.klasy.Produkt> produkts = new ArrayList<>();
+        List<Produkt> produkts = new ArrayList<>();
         produkts.add(new Produkt("Mleko",3.5));
         produkts.add(new Produkt("Chleb",2.8));
         produkts.add(new Produkt("Ser",5.2));

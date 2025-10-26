@@ -1,4 +1,4 @@
-package wsb.merito.pz.cw02.klasy;
+package wsb.merito.pz.cw02.zakupywsklepie.klasy;
 
 import java.util.ArrayDeque;
 import java.util.List;

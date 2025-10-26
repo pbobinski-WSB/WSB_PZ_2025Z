@@ -1,7 +1,7 @@
-package wsb.merito.pz.cw02.symulacja;
+package wsb.merito.pz.cw02.zakupywsklepie.symulacja;
 
-import wsb.merito.pz.cw02.klasy.Produkt;
-import wsb.merito.pz.cw02.klasy.ProduktWKoszyku;
+import wsb.merito.pz.cw02.zakupywsklepie.klasy.Produkt;
+import wsb.merito.pz.cw02.zakupywsklepie.klasy.ProduktWKoszyku;
 
 public class Testy {
 
